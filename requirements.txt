@@ -1,0 +1,10 @@
+autopy==4.0.0
+comtypes==1.4.8
+mediapipe==0.10.10
+numpy==1.24.4
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+Pillow==11.0.0
+pycaw==20240210
+screen_brightness_control==0.24.0
+WMI==1.5.1
